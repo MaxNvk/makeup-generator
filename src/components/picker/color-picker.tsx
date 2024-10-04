@@ -1,6 +1,6 @@
 "use client";
 
-import { forwardRef, useEffect, useMemo, useState } from "react";
+import { forwardRef, useState } from "react";
 import { HexColorPicker } from "react-colorful";
 import { cn } from "../../lib/utils";
 import { useForwardedRef } from "../../lib/use-forwarded-ref";
